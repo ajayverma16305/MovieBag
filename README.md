@@ -3,7 +3,7 @@ A Movie app that shows the now playing, popular and many more with details. Comp
 
 ![IMG_20210303_234413](https://user-images.githubusercontent.com/36023775/109852551-e3860e80-7c7a-11eb-9673-2abc3df1f2b7.jpg)
 
-It is using Movie DB api to work.
+MovieeBag is using Movie DB api and various patterns/architechtures/frameworks/others.
 
 ## DESCRIPTION
 It is a simple android application that consists of 4 pages
