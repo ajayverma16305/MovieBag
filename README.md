@@ -9,7 +9,7 @@ It is using Movie DB api to work.
 It is a simple android application that consists of 4 pages
 - Home Page (Now playing, popular, upcoming movies) with Search functionality
 - Movie details page (Casting, similar movies, recommended movies, overview, revies and many more)
-- Othe pages (Discover yourself)
+- Other pages (Take time to discover yourself)
 - One can switch between Grid view to list view and having paging optimize the app to some extent.
 
 I applied the MVVM design pattern I wrote with Kotlin, and tried to apply clean code rules.
